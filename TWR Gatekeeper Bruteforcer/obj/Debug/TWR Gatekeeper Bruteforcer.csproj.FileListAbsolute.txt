@@ -1,0 +1,8 @@
+C:\Users\nasko222\Documents\SharpDevelop Projects\TWR Gatekeeper Bruteforcer\TWR Gatekeeper Bruteforcer\bin\Debug\TWR Gatekeeper Bruteforcer.exe.config
+C:\Users\nasko222\Documents\SharpDevelop Projects\TWR Gatekeeper Bruteforcer\TWR Gatekeeper Bruteforcer\bin\Debug\TWR Gatekeeper Bruteforcer.exe
+C:\Users\nasko222\Documents\SharpDevelop Projects\TWR Gatekeeper Bruteforcer\TWR Gatekeeper Bruteforcer\bin\Debug\TWR Gatekeeper Bruteforcer.pdb
+C:\Users\nasko222\Documents\SharpDevelop Projects\TWR Gatekeeper Bruteforcer\TWR Gatekeeper Bruteforcer\obj\Debug\TWR Gatekeeper Bruteforcer.csprojResolveAssemblyReference.cache
+C:\Users\nasko222\Documents\SharpDevelop Projects\TWR Gatekeeper Bruteforcer\TWR Gatekeeper Bruteforcer\obj\Debug\TWR_Gatekeeper_Bruteforcer.MainForm.resources
+C:\Users\nasko222\Documents\SharpDevelop Projects\TWR Gatekeeper Bruteforcer\TWR Gatekeeper Bruteforcer\obj\Debug\TWR Gatekeeper Bruteforcer.csproj.GenerateResource.Cache
+C:\Users\nasko222\Documents\SharpDevelop Projects\TWR Gatekeeper Bruteforcer\TWR Gatekeeper Bruteforcer\obj\Debug\TWR Gatekeeper Bruteforcer.exe
+C:\Users\nasko222\Documents\SharpDevelop Projects\TWR Gatekeeper Bruteforcer\TWR Gatekeeper Bruteforcer\obj\Debug\TWR Gatekeeper Bruteforcer.pdb
